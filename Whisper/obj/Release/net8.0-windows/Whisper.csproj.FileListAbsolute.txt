@@ -1,0 +1,16 @@
+C:\Users\finxi\source\repos\Whisper\Whisper\bin\Release\net8.0-windows\Whisper.exe
+C:\Users\finxi\source\repos\Whisper\Whisper\bin\Release\net8.0-windows\Whisper.deps.json
+C:\Users\finxi\source\repos\Whisper\Whisper\bin\Release\net8.0-windows\Whisper.runtimeconfig.json
+C:\Users\finxi\source\repos\Whisper\Whisper\bin\Release\net8.0-windows\Whisper.dll
+C:\Users\finxi\source\repos\Whisper\Whisper\bin\Release\net8.0-windows\Whisper.pdb
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.Form1.resources
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.csproj.GenerateResource.cache
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.AssemblyInfoInputs.cache
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.AssemblyInfo.cs
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.csproj.CoreCompileInputs.cache
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.dll
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\refint\Whisper.dll
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.pdb
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\Whisper.genruntimeconfig.cache
+C:\Users\finxi\source\repos\Whisper\Whisper\obj\Release\net8.0-windows\ref\Whisper.dll
